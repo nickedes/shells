@@ -1,12 +1,12 @@
-0_package_control_loader.sublime-package
-AAAPackageDev.sublime-package
-AutoPEP8.sublime-package
-DocBlockr.sublime-package
-Gist.sublime-package
-Git.sublime-package
-GitGutter.sublime-package
-Markdown Preview.sublime-package
-MarkdownEditing.sublime-package
-Package Control.sublime-package
-SideBarEnhancements.sublime-package
-Theme - Cobalt2.sublime-package
+0_package_control_loader
+AAAPackageDev
+AutoPEP8
+DocBlockr
+Gist
+Git
+GitGutter
+Markdown Preview
+MarkdownEditing
+Package Control
+SideBarEnhancements
+Theme - Cobalt2

@@ -2,5 +2,5 @@
 
 for installed in ~/.config/sublime-text-3/Installed\ Packages/*
 do
-	basename "$installed" >> Results/list-packages
+	basename -s .sublime-package "$installed" >> Results/list-packages
 done
